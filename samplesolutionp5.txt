@@ -1,0 +1,40 @@
+***************TEST CASE 1***********************
+B---D	$5
+B---C	$6
+A---C	$8
+The cost of the railroad is $19.
+***************TEST CASE 2***********************
+E---F	$4
+D---E	$5
+A---B	$10
+C---D	$10
+A---F	$12
+A---G	$16
+The cost of the railroad is $57.
+***************TEST CASE 3***********************
+Orlando---Tampa	$100
+Jacksonville---Orlando	$120
+Miami---Orlando	$230
+The cost of the railroad is $450.
+***************TEST CASE 4***********************
+Miami---Tampa	$100
+Jacksonville---Miami	$120
+Jacksonville---Tallahassee	$130
+Jacksonville---Orlando	$170
+The cost of the railroad is $520.
+***************TEST CASE 5***********************
+BocaRaton---PalmBeach	$50
+FortMyers---Naples	$90
+Miami---Tampa	$100
+BocaRaton---Jupiter	$110
+Orlando---VeroBeach	$115
+Orlando---Tampa	$123
+Gainesville---Orlando	$130
+Lakeland---Orlando	$140
+BocaRaton---Naples	$150
+BonitaSprings---Tampa	$160
+Jupiter---Orlando	$170
+FortLauderdale---Naples	$270
+Orlando---Tallahassee	$300
+Pensacola---Tallahassee	$370
+The cost of the railroad is $2278.
